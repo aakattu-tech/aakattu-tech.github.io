@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Aakattu Tech</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on Aakattu Tech</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Nov 2024 07:07:07 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Brrrp</title>
+      <link>http://localhost:1313/projects/brrrp/</link>
+      <pubDate>Thu, 07 Nov 2024 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/projects/brrrp/</guid>
+      <description>&lt;h2 id=&#34;a-friendly-app-for-parents-of-infants&#34;&gt;A friendly app for parents of infants&lt;/h2&gt;&#xA;&lt;p&gt;A simple, intuitive iPhone app designed to help new parents easily track feeding and diapering frequencies in the crucial first few months. Whether you’re tracking breastfeeds, bottle feeds, or diaper changes, this app helps you stay on top of your baby’s needs, so you can focus on what matters most: bonding with your little one.&lt;/p&gt;&#xA;&lt;p&gt;Key Features:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Private &amp;amp; Secure&lt;/strong&gt;: All data is stored directly on your device — no online storage or sharing.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Simple Tracking&lt;/strong&gt;: Easily log feedings, diaper changes, and more with a couple of taps.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;User-Friendly&lt;/strong&gt;: Designed for busy parents, with a straightforward interface to help you stay organized.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;No Accounts Required&lt;/strong&gt;: Start using the app right away, without creating any accounts or sharing personal information.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;table&gt;&#xA;  &lt;tr&gt;&#xA;    &lt;td&gt;&lt;img src=&#34;../../images/illustrations/mockups/Brrrp-img-1.jpeg&#34; style=&#34;border-width: 10px; border-radius: 20px; border-color: black; border-style: solid; margin-right: 10px; width: 300px;&#34; alt=&#34;Image 1&#34;&gt;&lt;/td&gt;&#xA;    &lt;td&gt;&lt;img src=&#34;../../images/illustrations/mockups/Brrrp-img-2.jpeg&#34; style=&#34;border-width: 10px; border-radius: 20px; border-color: black; border-style: solid; margin-right: 10px; width: 300px;&#34; alt=&#34;Image 2&#34;&gt;&lt;/td&gt;&#xA;    &lt;td&gt;&lt;img src=&#34;../../images/illustrations/mockups/Brrrp-img-3.jpeg&#34; style=&#34;border-width: 10px; border-radius: 20px; border-color: black; border-style: solid; margin-right: 10px; width: 300px;&#34; alt=&#34;Image 3&#34;&gt;&lt;/td&gt;&#xA;  &lt;/tr&gt;&#xA;&lt;/table&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -3,5 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2024-11-07T07:07:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notices/disclaimer/</loc>
+    <lastmod>2024-11-07T07:07:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notices/privacy_policy/</loc>
+    <lastmod>2024-11-07T07:07:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notices/terms_of_service/</loc>
+    <lastmod>2024-11-07T07:07:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/brrrp/</loc>
+    <lastmod>2024-11-07T07:07:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notices/</loc>
+    <lastmod>2024-11-07T07:07:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/</loc>
+    <lastmod>2024-11-07T07:07:07+01:00</lastmod>
   </url>
 </urlset>
