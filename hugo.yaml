@@ -44,7 +44,8 @@ params:
     # Button text
     buttontext: Projects
     # # Where the main hero button links to
-    buttonlink: "#section3"
+    # buttonlink: "#section3"
+    buttonlink: "projects/projects"
     # Hero image (from static/images/___)
     image: illustrations/worker.svg
     # image: logos/Aakattu-Tech-Logo.png
@@ -148,11 +149,13 @@ params:
   #     text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
   #     icon: mobile-feed
   section3:
-    # title: Brrrp
-    # subtitle: A friendly app for parents of infants
-    image: illustrations/mockups/Brrrp-img-1.jpeg
-    buttonText: App Details
-    buttonLink: "/projects/brrrp"
+    image: illustrations/mockups/LambsAndTigers-img-1.jpg
+    buttonText: Game Details
+    buttonLink: "/projects/lambs-and-tigers"
+    #   image: illustrations/mockups/Brrrp-img-1.jpeg
+    #   buttonText: App Details
+    #   buttonLink: "/projects/brrrp"
+
   # section4:
   #   title: Our Clients love us!
   #   subtitle: Lorem ipsum sit dolor amet is a dummy text used by typography industry
@@ -198,7 +201,7 @@ params:
       column1:
         title: "          "
         links: 
-        - text: © 2024 Aakattu Tech, LLC.
+        - text: © 2025 Aakattu Tech, LLC.
           link: /
         - text: All rights reserved.
         #   link: /
