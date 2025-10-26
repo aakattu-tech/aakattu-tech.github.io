@@ -55,6 +55,8 @@ The Tiger player has two options:
 
 Good luck, and enjoy the ancient challenge of Lambs and Tigers!
 
+If you have any questions about the game or feedback on how it can be improved please reach out to us at: contact[at]aakattutech[dot]com
+
 [Privacy Policy](../../notices/privacy_policy_lambs_and_tigers)  
 [Terms of Service](../../notices/terms_of_service_lambs_and_tigers)  
 [Disclaimer](../../notices/disclaimer_lambs_and_tigers)
