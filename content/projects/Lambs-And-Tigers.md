@@ -7,6 +7,15 @@ include_footer = true
 
 ## A Classic Game of Wit and Strategy
 
+<div>
+  <a href="https://apps.apple.com/us/app/lambs-and-tigers/id6754126430" target="_blank">
+    <img src="../../images/logos/apple-logo-black.png" style="width: 120px" alt="Download on the App Store">
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.aakattutech.LambsAndTigers&pcampaignid=web_share" target="_blank">
+    <img src="../../images/logos/google-logo.png" style="width: 135px" alt="Get it on Google Play">
+  </a>
+</div>
+
 **Lambs and Tigers** brings the timeless board game of strategy and pursuit to your fingertips. Known by many names across the world—*Puli Meka Aata, Aadu Puli Aattam, Bagh Chal*—this ancient game pits three cunning tigers against a clever flock of fifteen lambs. It's a captivating mental challenge for all ages, beautifully realized for modern devices.
 
 Whether you want to test your strategic skills against a challenging computer AI or play a friendly match with someone across the globe, Lambs and Tigers offers a seamless and engaging experience.
